@@ -8,5 +8,6 @@ Para essa primeira semana, vai ser tratado principalmente a base do Javascript a
 - Vídeo Curso Learn JavaScript x6 (Scrimba, um vídeo por dia) - feito (dia 2, dia 3)
 
 ## Materiais e fontes utilizadas nessa semana
+
 [RoadMap](https://roadmap.sh/javascript)
 [Learn JavaScript](https://scrimba.com/learn-javascript-c0v)

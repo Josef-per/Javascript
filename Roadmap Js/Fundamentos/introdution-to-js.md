@@ -29,6 +29,7 @@ Para que o Js possa rodar, fazemos um arquivo com a terminalção .js, para que 
 Para adiconar em sites como um html, precisamos somente fazer uma conexão com a tag <script scr="">
 
 ## Referências
+
 [O que é JavaScript](https://javascript.info/intro)
 [Versão do Js](https://www.educative.io/blog/javascript-versions-history)
 [Como rodar JS](https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html)

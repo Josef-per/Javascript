@@ -1,3 +1,7 @@
 let contador = 0;
 
-console.log(contador);
+function increment () {
+    contador++;
+    console.log(contador);
+};
+
